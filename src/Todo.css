@@ -1,0 +1,21 @@
+/* body {
+  display: flex;
+  align-content: center;
+} */
+
+ul {
+  list-style-type: none;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  margin: 5px 0;
+  background: #f4f4f4;
+}
+button {
+  background: rgb(57, 156, 48);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
